@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+
+keyname: SAP JCO
+keyvendor: sap.com
+keylocation: SAP SE
+
+sapjco release: 3.0
+sapjco patch level: 12
+sapjco os: linuxx86_64
+Main-Class: STRACK.ExtractSystemInfo
